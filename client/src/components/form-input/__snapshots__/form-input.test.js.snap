@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Input should be rendered Should snapshot Form Input 1`] = `ShallowWrapper {}`;
